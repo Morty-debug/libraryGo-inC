@@ -1,1 +1,5 @@
-# go-gcc
+
+### compilar codigo
+```batch
+go build
+```
